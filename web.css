@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: url(barbie.jpg) no-repeat center center fixed;
+    background-size: contain; /* Important: shows full image */
+    background-color: #f8c3da; /* Optional: fallback color to fill empty space */
+}
+h2{
+    text-align: center;
+}
